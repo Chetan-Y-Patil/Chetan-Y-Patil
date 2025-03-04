@@ -52,7 +52,7 @@
 
 ## 📫 How to Reach Me
 - **Email**: [Your Email]
-- **LinkedIn**: [LinkedIn Profile Link]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chetan-patil-27322a239/))
+- **LinkedIn**: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chetan-patil-27322a239/)
 - **GitHub**: [@Chetan-Y-Patil](https://github.com/Chetan-Y-Patil)
 
 ---
