@@ -28,16 +28,7 @@
 - **Tech Stack**: Python, OpenCV, TensorFlow, Deep Learning.
 - **Goal**: To assist in road safety by detecting potholes and potentially alerting authorities.
 
-### 2. Movie Genre Prediction
-- **Description**: A machine learning project that predicts **movie genres** based on plot summaries.
-- **Tech Stack**: Natural Language Processing (NLP), Scikit-Learn, Pandas.
-- **Data**: Separate datasets for training and testing to ensure accurate predictions.
-
-### 3. Solar Power Generation Forecaster
-- **Description**: Developed a forecasting tool to predict **solar power generation** based on historical data and weather patterns.
-- **Tech Stack**: Python, Machine Learning, Pandas, Scikit-Learn.
-
-### 4. Voice Assistant
+### 2. Voice Assistant
 - **Description**: A personal project where I built a **voice assistant** capable of performing various tasks.
 - **Tech Stack**: Python, Speech Recognition, Natural Language Processing.
 
