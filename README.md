@@ -9,7 +9,6 @@
 
 ## About Me
 - 🎓 I’m currently a 3rd-year B-Tech student specializing in **Artificial Intelligence** at [R C Patel Institute of Technology, Shirpur](https://rcpit.ac.in/), and I previously completed a diploma in computer science at **Government Polytechnic Nandurbar**.
-- 💼 I recently received an internship offer in **Machine Learning** from **Codesoft**, where I’m looking forward to applying my skills and gaining hands-on experience in a professional environment.
 - 🌱 I’m always looking to enhance my knowledge in AI, particularly in areas like **computer vision**, **predictive modeling**, and **deep learning**.
 
 ---
@@ -38,9 +37,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/NLP-5B17A5?style=for-the-badge&logo=google&logoColor=white" alt="NLP"/>
   <img src="https://img.shields.io/badge/Data_Science-4CA1AF?style=for-the-badge&logo=data&logoColor=white" alt="Data Science"/>
@@ -56,14 +52,13 @@
 
 ## 📫 How to Reach Me
 - **Email**: [Your Email]
-- **LinkedIn**: [LinkedIn Profile Link](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [LinkedIn Profile Link]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chetan-patil-27322a239/))
 - **GitHub**: [@Chetan-Y-Patil](https://github.com/Chetan-Y-Patil)
 
 ---
 
 ## ⚡ Fun Facts
 - 🗣️ I built my own **voice assistant**.
-- ☀️ I developed a **solar power generation forecaster** using machine learning.
 - 🧑‍🎓 Always eager to learn and share knowledge with others.
 
 ---
